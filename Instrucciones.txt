@@ -1,0 +1,18 @@
+Escenario
+• El cajero automático pide al cliente que inserte la tarjeta de crédito (leer número de
+tarjeta).
+• El cajero automático pide al cliente que escriba su código pin (un pin de 4 dígitos)
+• El cajero automático mostrara el siguiente menú si el numero de tarjeta y pin son
+válidos:
+o Depositar
+o Retirar
+o Ver saldos
+• Si el usuario presiona depositar el cajero automático deberá solicitar el monto a
+depositar.
+• Si el usuario presiona retirar el cajero debe solicitar la cantidad a retirar.
+• Si el usuario presiona ver saldos el cajero automático debe mostrar el saldo actual
+del usuario.
+Nota: tanto las cantidades de deposito como de retiro deben ser múltiplos de 100
+
+Nota:
+     El programa cuenta con usuarios agregados en un archivo llamado DataBase.
